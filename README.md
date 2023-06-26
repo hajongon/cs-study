@@ -32,7 +32,7 @@
 
 | 회차 | 날짜 | 질문 레퍼런스 | 참여자 |
 |------|------|------|------|
-| 1 | 23-06-26(MON) 14:00 | [링크](https://urclass.codestates.com/content/ff2d6072-09ae-4cab-a207-ee87ddcf26e8?playlist=1627) | 설화, 수범, 민규, 종승 |
+| 1 | 23-06-26(MON) 15:30 | [링크](https://urclass.codestates.com/content/ff2d6072-09ae-4cab-a207-ee87ddcf26e8?playlist=1627) | 설화, 수범, 민규, 종승 |
 | 2 | 23-07-03(MON) (예정) | - | |
 | 3 | 23-07-10(MON) (예정) | - | |
 | 4 | 23-07-17(MON) (예정) | - | |
