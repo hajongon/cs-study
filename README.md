@@ -37,8 +37,8 @@
 | 2 | 23-07-03(MON) 15:50 | 코드스테이츠 Section 2 | 설화, 수범, 종승, 상범, 수빈 |
 | 3 | 23-07-13(THU) 14:00 | 코드스테이츠 Section 3 | 수범, 종승 |
 | 4 | 23-07-20(THU) 14:00 | 코드스테이츠 Section 4 | 설화, 수범, 종승, 수빈 |
-| 5 | 23-08-10(THU) (예정) | [링크](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/) | |
-| 6 | 23-08-17(THU) (예정) |  | |
+| 5 | 23-08-10(THU) 14:00 | [링크](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/) | 설화, 종승, 수범, 수빈, 우선 |
+| 6 | 23-08-17(THU) (예정) | [링크](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/) | |
 | 7 | 23-08-24(THU) (예정) | - | |
 | 8 | 23-08-31(THU) (예정) | - | |
 
